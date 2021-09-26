@@ -10,7 +10,7 @@
 
 ## 整合包未打包时链接(可issue或者PR提交好的mod等资源)
 
-[就是在这里qwq]("https://github.com/misaka10843/cache/blob/main/cirnocraft/zhenghebao")
+[就是在这里qwq](https://github.com/misaka10843/cache/blob/main/cirnocraft/zhenghebao)
 
 或者您可以直接点击`zhenghebao`的文件夹里面就是的啦！
 
@@ -32,7 +32,7 @@ mod数量：47
 
 此仓库中的`Custom.xaml`文件是`PCL2`的主页文件，修改它就是会修改像下面这张图一样
 
-![qwq]("./doc/img1.png")
+![qwq](./doc/img1.png)
 
 您可以修改它，但是最好还是建议发送`issue`来告诉我，十分感谢！
 
@@ -91,9 +91,9 @@ mod数量：47
 
 ## 一些截图
 
-![qwq]("./doc/img1.png")
+![qwq](./doc/img1.png)
 
-![qwq]("./doc/img2.png")
+![qwq](./doc/img2.png)
 
 ## 参与制作人员
 
