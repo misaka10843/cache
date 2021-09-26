@@ -1,0 +1,90 @@
+<local:MyCard Title="前言">
+  <StackPanel Margin="25,40,23,15">
+    <TextBlock Margin="0,0,0,4" Text="这里是私立⑨学院原版服务器的第三方整合包" />
+    <TextBlock Margin="0,0,0,4" Foreground="#8C7721" Text="fabric+iris光影与辅助mod和几个fabric元素周期表qwq" />
+    <TextBlock Margin="0,0,0,4" Foreground="#C0C0C0" Text="(fabric元素周期表都是优化客户端各个地方的mod,比如网络、内存、帧数等)">
+    </TextBlock>
+  </StackPanel>
+</local:MyCard>
+<TextBlock>
+  <LineBreak/>
+</TextBlock>
+<local:MyCard Title="这里是mod的一些快捷键与指令qwq" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+  <StackPanel Margin="25,40,23,15">
+    <local:MyHint Margin="0,8,0,2" IsWarn="False" Text="在这里的快捷键与指令都是客户端mod的，而不是服务器中的，请注意！" />
+    <TextBlock Margin="0,6,0,0" Text="1.C键放大：如题，按住C键即可像1.17.1中的望远镜一样放大(但是没有遮罩qwq)">
+      <LineBreak/>
+    </TextBlock>
+    <TextBlock Margin="0,6,0,0" Text="2.R键整理：如题，在背包/箱子那些的容器中按下R即可一键整理(但是似乎有时候不能，需要重启客户端，而且与REI的R看合成配方有点冲突，但是问题不大qwq)">
+      <LineBreak/>
+    </TextBlock>
+    <TextBlock Margin="0,6,0,0" Text="3.G键重发包：如题，只要遇见卡方块(也就是挖方块不掉东西的时候)直接按下G键即可让你&quot;文明&quot;地向服务器重新获取数据包">
+      <LineBreak/>
+    </TextBlock>
+    <TextBlock Margin="0,6,0,0" Text="4.V键自动钓鱼配置：如题，按下V键即可配置mod&quot;一键钓鱼&quot;">
+      <LineBreak/>
+    </TextBlock>
+    <TextBlock Margin="0,6,0,0" Text="5.F3+R音频驱动重载：如题，按下F3+R直接在几毫秒内就可以修正声音输出(比如你开始是没插耳机进游戏后再插会出现耳机没声音，但F3+T是刷新全部资源[似乎是mc自带]，但是这个mod可以F3+R只重载声音qwq)">
+      <LineBreak/>
+    </TextBlock>
+    <TextBlock Margin="0,6,0,0" Text="6.O键设置HUD+：如题，按下O键即可设置HUD+(有一说一，真的不喜欢HUD+的将背包物品直接显示出来，太挡视野了，推荐您设置像下图一样的配置qwq)">
+      <LineBreak/>
+    </TextBlock>
+    <Image Height="300" HorizontalAlignment="Center" Source="https://i.loli.net/2021/09/26/Ly7GewUhNQMqmt6.png" />
+    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+      <local:MyButton Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" Text="点击查看原图" EventType="打开网页" EventData="https://i.loli.net/2021/09/26/Ly7GewUhNQMqmt6.png" />
+    </StackPanel>
+  </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="私立⑨学院的一些网站" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+  <StackPanel Margin="25,40,23,15">
+    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+      <local:MyButton Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" Text="网页地图" EventType="打开网页" EventData="http://cirnocraft.xyz:11451/" />
+    </StackPanel>
+    <TextBlock>
+      <LineBreak/>
+    </TextBlock>
+    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+      <local:MyButton Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" Text="官网" EventType="打开网页" EventData="http://web.cirnocraft.xyz:25565/" />
+      <TextBlock Margin="0,6,0,0" Text="   ">
+      </TextBlock>
+      <local:MyButton Width="140" Height="35" HorizontalAlignment="Right" Padding="13,0,13,0" Text="WIki" EventType="打开网页" EventData="http://wiki.cirnocraft.im/" />
+    </StackPanel>
+  </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="服务器的一些指令" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+  <StackPanel Margin="25,40,23,15">
+    <local:MyHint Margin="0,8,0,2" IsWarn="False" Text="请一定要记住&quot;/e&quot;为菜单！" />
+    <TextBlock Margin="0,6,0,0" Foreground="#104E8B" Text="无需前置条件即可运行的指令：">
+      <LineBreak/>
+      <TextBlock Margin="0,6,0,0" Text="/shop:商店|/bank:银行|/sit:坐"/>
+      <LineBreak/>
+      <TextBlock Margin="0,6,0,0" Text="/hat:将手上的物品戴到头上"/>
+      <LineBreak/>
+      <TextBlock Margin="0,6,0,0" Text="/ah set &lt;价格&gt;:将手上的物品拍卖出去|/ah:拍卖系统"/>
+      <LineBreak/>
+      <TextBlock Margin="0,6,0,0" Text="/tpaccept &lt;价格&gt;:tp到谁|/tpahere:似乎是邀请ta tp到这?|/tpask:这我真不知道是什么意思"/>
+      <LineBreak/>
+      <local:MyHint Margin="0,8,0,2" IsWarn="False" Text="玩股需谨慎！" />
+      <LineBreak/>
+      <TextBlock Margin="0,6,0,0" Text="/pop:股票系统|/stock help:股票系统帮助|/stock sell &lt;股票代码&gt; &lt;数量&gt;:卖出股票"/>
+      <LineBreak/>
+      <TextBlock Margin="0,6,0,0" Text="/stock portfolio:查看已购股票|/stock sell &lt;股票代码&gt; &lt;数量&gt;:卖出股票"/>
+      <LineBreak/>
+      <LineBreak/>
+    </TextBlock>
+    <TextBlock Margin="0,6,0,0" Foreground="#104E8B" Text="需前置条件即可运行的指令：">
+      <LineBreak/>
+      <TextBlock Margin="0,6,0,0" Text="/res create &lt;名称&gt;:用木棍选择两点后创建领地(花费的钱应该是1方块/0.5)"/>
+      <LineBreak/>
+      <TextBlock Margin="0,6,0,0" Text="/res tp &lt;领地名称&gt;:传送至这个名称的领地"/>
+      <LineBreak/>
+      <TextBlock Margin="0,6,0,0" Text="/chestshop create:鼠标指针指向箱子输入此指令后安装提示操作可以创建个人商店"/>
+      <LineBreak/>
+      <LineBreak/>
+    </TextBlock>
+
+  </StackPanel>
+</local:MyCard>
