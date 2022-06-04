@@ -1,7 +1,5 @@
 | 命令| 用法 | 权限节点| 可用性 | 注释 | 别名|
 | -------------- | -------------------------------------------- | ------------------------- | -------- | ------------------------------------------ | ----------------------------------------------- |
- | broadcast| `broadcast <消息内容>` | server.broadcast| 均可使用 | 给所有玩家发送公告 | b |
-| coop | `coop \<uid> <目标uid>` | server.coop | 均可使用| 强制某位玩家进入指定玩家的多人世界| |
 | changescene| `changescene <场景ID>` | player.changescene| 仅客户端 | 切换到指定场景 | scene |
 | clear| `clear <all\|wp\|art\|mat> [UID]` | player.clearinv | 仅客户端 | 删除所有未装备及未解锁的圣遗物(art)或武器(wp)或材料(mat)或者所有(all),包括五星| clear |
 | drop | `drop <物品ID\|物品名称> [数量]` | server.drop | 仅客户端 | 在指定玩家周围掉落指定物品 | `d` `dropitem`|
@@ -16,7 +14,6 @@
 | position | `position` | | 仅客户端 | 获取当前坐标 | pos |
 | remove | `remove [多个角色在队伍中的序号]` | player.remove | 仅客户端 | 强制将某个角色从当前队伍中移除。例如`remove 1 2`表示将1号和2号角色移除 ||
 | resetconst | `resetconst [all]` | player.resetconstellation | 仅客户端 | 重置当前角色的命座,重新登录即可生效| resetconstellation|
-| say| `say \<uid> <消息>` | server.sendmessage| 均可使用 | 作为服务器发送消息给玩家 | `sendservmsg` `sendservermessage` `sendmessage` |
 | setfetterlevel | `setfetterlevel <好感等级>`| player.setfetterlevel | 仅客户端 | 设置当前角色的好感等级 | `setfetterlvl` `setfriendship`|
 | setstats | `setstats <属性> <数值>` | player.setstats | 仅客户端 | 直接修改当前角色的面板 | stats |
 | setworldlevel| `setworldlevel <世界等级>` | player.setworldlevel| 仅客户端 | 设置世界等级(重新登录即可生效) | setworldlvl |
