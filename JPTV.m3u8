@@ -1,0 +1,107 @@
+#EXTM3U
+
+# NHK
+
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://s2.loli.net/2022/06/13/QgRi7esznMuZJWN.png" group-title="総合",NHK G (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://s2.loli.net/2022/06/13/RPGfToyDwV3lHBx.png" group-title="総合",NHK E (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="https://s2.loli.net/2022/06/13/kM3qxT4rjUEwYBd.png" group-title="総合",NHK BS1 (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+# NTV
+
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://s2.loli.net/2022/06/13/vYUMLbj14hJtxTk.png" group-title="総合", 日テレ NTV(720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+# TBS
+
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://s2.loli.net/2022/06/13/pRAo21MnVJz8GuP.png" group-title="総合",TBS (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="https://s2.loli.net/2022/06/13/K3zH1Q7OekbwE5j.png" group-title="BS",BS-TBS (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+# 富士
+
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://s2.loli.net/2022/06/13/gu47dosLjCR6pyF.png" group-title="総合",フジテレビ CX (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS",BS フジテレビ (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+# 朝日
+
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://s2.loli.net/2022/06/13/gp2JbilMehZa6rm.png" group-title="総合",テレビ朝日 EX (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://s2.loli.net/2022/06/13/x4BwXPrkz7NSdeA.png" group-title="総合",BS朝日 (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+# TV Tokyo
+
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://s2.loli.net/2022/06/13/KvqBUsO52YxA78t.png" group-title="総合",テレ東 TX (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="総合",BS テレ東 (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+# TokyoMX
+
+#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://s2.loli.net/2022/06/13/7IVqOXirl8Lwt5T.png" group-title="総合",TOKYO MX1 (540p)
+http://cdn.us195.jpnettv.live:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8
+
+# AT-X
+
+#EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://s2.loli.net/2022/06/13/1GY8Vhs9tKAMkrJ.png" group-title="アニメ",AT-X (720p)
+https://sub2.neetball.net/live/neet.m3u8
+
+# Animax
+
+#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://s2.loli.net/2022/06/13/JAtvM3VxwfXus6C.pngg" group-title="アニメ",BSアニマックス (720p)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+# 备用
+
+#EXTINF:-1 tvg-id="warning" tvg-logo="https://s2.loli.net/2022/06/13/JAtvM3VxwfXus6C.pngg" group-title="",以下为备用串流，如上述出现问题可以试试下面串流
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+
+# 备用开始
+
+#EXTINF:-1 group-title="総合",NHK E
+http://203.162.235.41:16901
+
+#EXTINF:-1 group-title="総合",NHK G
+http://203.162.235.41:16903
+
+#EXTINF:-1 group-title="総合",NHK BS1
+http://203.162.235.41:16909
+
+#EXTINF:-1 group-title="総合",FUJI TV
+http://203.162.235.41:16904
+
+#EXTINF:-1 group-title="総合",BS Fuji
+http://203.162.235.41:16911
+
+#EXTINF:-1 group-title="総合",Nippon TV
+http://203.162.235.41:16905
+
+#EXTINF:-1 group-title="総合",TV Asahi
+http://203.162.235.41:16906
+
+#EXTINF:-1 group-title="総合",BS Asahi
+http://203.162.235.41:16914
+
+#EXTINF:-1 group-title="総合",TBS
+http://203.162.235.41:16907
+
+#EXTINF:-1 group-title="総合",BS TBS
+http://203.162.235.41:16913
+
+#EXTINF:-1 group-title="総合",TV Tokyo
+http://203.162.235.41:16908
+
+#EXTINF:-1 group-title="総合",BS Tokyo
+http://203.162.235.41:16915
