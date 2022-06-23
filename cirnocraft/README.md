@@ -8,7 +8,7 @@
 
 (fabric元素周期表都是优化客户端各个地方的mod,比如网络、内存、帧数等)
 
-请进入`download`文件夹中下载，或者点击此处从镜像站下载[1.19整合包](https://raw.fastgit.org/misaka10843/cache/main/cirnocraft/download/1.19-cirnocraft.7z)
+请进入`download`文件夹中下载，或者点击此处从镜像站下载[**1.19整合包**](https://ghproxy.futils.com/https://github.com/misaka10843/cache/blob/main/cirnocraft/download/1.19-cirnocraft.7z)
 
 ## 整合包未打包时链接(可issue或者PR提交好的mod等资源)
 
@@ -32,7 +32,7 @@ mod数量：68
 
 直接连接的服务器URL：`cirnocraft.xyz`
 
-====
+---
 
 游戏版本：1.17.1
 
