@@ -1,0 +1,18 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "1.19-cirnocraft",
+  "version": "1.0",
+  "author": "sakurahibiki",
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.19",
+    "modLoaders": [
+      {
+        "id": "fabric-0.14.8",
+        "primary": true
+      }
+    ]
+  },
+  "files": []
+}
